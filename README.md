@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... *computer Science*
 - 🌱 I’m currently learning ... *CS50X*
 - 💞️ I’m looking to collaborate on ... *CS50x community*
-- 📫 How to reach me ... *with my name*
+- 📫 How to reach me ... *leticianarciso97@gmail.com*
 - 😄 Pronouns: ... *Leeh*
 - ⚡ Fun fact: ... *I parachuted into the CS50X,and i'loving it*
 
