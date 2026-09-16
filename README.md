@@ -94,6 +94,15 @@ cheia e seleção de mídia pela câmera ou galeria.
 
 `Flutter` `Dart`
 
+### 🌍 [Landing Page de Turismo](https://github.com/Leticianarc/Landing_Page_Turismo)
+
+Landing page com carrossel de destinos em tela cheia, em **HTML, CSS e JavaScript puro**. A
+troca de slides acontece por reordenação do DOM — sem cálculo de posição, o que torna o
+carrossel naturalmente infinito — e as transições, incluindo a miniatura que cresce até virar
+o fundo da página, são feitas apenas com `@keyframes`.
+
+`HTML` `CSS` `JavaScript` `Animações CSS`
+
 ---
 
 ## 🎓 Formação
