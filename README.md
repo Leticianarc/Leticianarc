@@ -45,6 +45,15 @@ experiência do usuário e código limpo e reutilizável.
 
 ## 📌 Projetos em destaque
 
+### 🌡️ [Aferidor de Pressão ESP32 + SMP3011](https://github.com/Leticianarc/Treinamento_ESP32_SMP3011)
+
+Firmware em **C** (ESP-IDF / FreeRTOS) que lê pressão e temperatura de um sensor SMP3011 via
+**I²C** e serve uma interface web em tempo real: o ESP32 sobe um Wi-Fi SoftAP e um servidor
+HTTP com **WebSocket**, transmitindo as leituras ao navegador a cada 150 ms. Inclui
+reinicialização automática do barramento I²C após falhas consecutivas.
+
+`C` `ESP-IDF` `FreeRTOS` `I²C` `WebSocket`
+
 ### ⚛️ [Previsão do Tempo — React](https://github.com/Leticianarc/Previsao_Tempo_react)
 
 Aplicação em **React + TypeScript** com tipagem estrita, camada de API isolada, cancelamento
@@ -53,29 +62,20 @@ carregamento e erro. Segunda versão de um projeto que comecei em JavaScript pur
 
 `React` `TypeScript` `Vite`
 
-### 📱 [TikTok App](https://github.com/Leticianarc/TikTok_App)
-
-Aplicativo mobile em **Flutter** que recria a experiência de navegação do TikTok: feed
-vertical de vídeos, player em tela cheia, barra de interações e seleção de mídia pela
-câmera ou galeria.
-
-`Flutter` `Dart` `Mobile`
-
 ### 🌤️ [Previsão do Tempo — JavaScript](https://github.com/Leticianarc/Previsao_Tempo_js)
 
-A primeira versão do projeto de clima, em **HTML, CSS e JavaScript puro** — sem framework,
-sem build e sem chave de API. Consome dois endpoints encadeados e traduz os códigos de
-condição do padrão WMO.
+A primeira versão do mesmo projeto, em **HTML, CSS e JavaScript puro** — sem framework, sem
+build e sem chave de API. Consome dois endpoints encadeados e traduz os códigos de condição
+do padrão WMO.
 
 `HTML` `CSS` `JavaScript` `Open-Meteo`
 
-### 🌡️ [Aferidor de Pressão ESP32](https://github.com/Leticianarc/Treinamento_ESP32_SMP3011)
+### 📱 [TikTok App](https://github.com/Leticianarc/TikTok_App)
 
-Interface web em tempo real servida por um microcontrolador: o dispositivo transmite leituras
-de um sensor por **WebSocket** e o navegador exibe os dados ao vivo. Projeto em **C** que me
-aproximou de comunicação em tempo real e de protocolos de rede.
+Recriação da interface do TikTok em **Flutter**: feed vertical de vídeos, player em tela
+cheia e seleção de mídia pela câmera ou galeria.
 
-`C` `WebSocket` `Tempo real`
+`Flutter` `Dart`
 
 ---
 
