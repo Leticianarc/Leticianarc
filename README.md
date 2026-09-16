@@ -19,11 +19,19 @@ Sou desenvolvedora front-end. Passei o último ano trabalhando num aplicativo pu
 **App Store** e na **Google Play**, feito em React Native e TypeScript, e na versão web do
 mesmo produto, em React.
 
+Nesse projeto peguei o ciclo inteiro. Recebia as telas em Figma e implementava, estilizando com
+Tailwind, NativeWind e Styled Components. Consumia APIs REST e cuidava do estado de servidor
+com TanStack Query. Gerava as builds com EAS Build e acompanhava a publicação nas duas lojas,
+com ambientes separados de desenvolvimento, QA e produção. Trabalhei em time ágil, com code
+review e Git Flow, junto de designers e do pessoal de back-end.
+
+Antes disso desenvolvi sozinha, do zero, um aplicativo de banco digital em Flutter: as telas, a
+lógica de contas, saldos, transações e metas, e um painel administrativo para gerenciar tudo
+isso. Foi onde aprendi como front-end e back-end se encaixam.
+
 Nos projetos aqui embaixo você encontra a camada de API separada dos componentes, tipagem
 estrita e tratamento de carregamento e erro feito de forma explícita. Todos têm README
 explicando as decisões por trás do código.
-
-Uso ferramentas de IA para escrever mais rápido, mas leio e testo tudo antes de subir.
 
 ---
 
