@@ -15,24 +15,22 @@ Aplicativos mobile para iOS e Android e aplicações web, em produção.
 
 ## 👩‍💻 Sobre mim
 
-Sou desenvolvedora front-end e atuo profissionalmente no desenvolvimento de produtos digitais
-em produção. Participei da construção de um aplicativo publicado na **App Store** e na
-**Google Play**, nas versões iOS e Android, e da **aplicação web** correspondente — ambos em
-React Native, React e TypeScript.
+Desenvolvedora front-end com experiência em produto em produção: um aplicativo publicado na
+**App Store** e na **Google Play**, nas versões iOS e Android, e a **aplicação web**
+correspondente.
 
-No dia a dia, implemento telas a partir de layouts do Figma com fidelidade ao design, integro
-APIs REST, gerencio estado de servidor, gero builds e acompanho o processo de publicação nas
-lojas, trabalhando com ambientes separados de desenvolvimento, QA e produção. Atuo em time
-ágil, participando de code reviews e colaborando diretamente com design e back-end.
+Meu trabalho se concentra em **React Native** e **React**, sempre com **TypeScript**. A parte
+que mais me interessa é a que não aparece na tela: decidir onde o estado deve morar, manter a
+tipagem contando a verdade sobre os dados, tratar o caminho em que a requisição falha com o
+mesmo cuidado do caminho em que ela funciona, e deixar componentes que a próxima pessoa
+consiga reaproveitar sem precisar reescrever.
 
-Trabalho orientada a código limpo, componentização e reuso, com atenção a performance,
-responsividade e acessibilidade. Uso ferramentas de IA como parte do fluxo de desenvolvimento,
-sempre revisando e testando o que é gerado antes de subir — para mim elas aceleram a escrita,
-não substituem o entendimento do código.
+Os projetos abaixo refletem isso — camada de API isolada e tipada, cancelamento de requisições
+concorrentes, estados de carregamento e erro modelados de forma explícita — e cada um deles
+tem um README explicando as decisões por trás do código, não só como executar.
 
-Curso **Tecnologia em Desenvolvimento de Sistemas** na FATEC Jundiaí e concluí o **CS50**, o
-programa de Ciência da Computação de Harvard (edX), de onde vem minha base em algoritmos,
-estruturas de dados e engenharia de software.
+Uso ferramentas de IA no fluxo de desenvolvimento e reviso tudo que elas produzem antes de
+subir: aceleram a escrita, não substituem o entendimento do código.
 
 ---
 
