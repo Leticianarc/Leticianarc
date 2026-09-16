@@ -4,17 +4,35 @@
 
 **Desenvolvedora Front-end** · React · React Native · TypeScript
 
-Desenvolvo aplicativos mobile para iOS e Android com React Native
-e aplicações web com React, em TypeScript.
-
-Trabalho na construção de interfaces a partir de layouts do Figma, na integração
-com APIs REST e na publicação em loja, com foco em performance,
-experiência do usuário e código limpo e reutilizável.
+Aplicativos mobile para iOS e Android e aplicações web, em produção.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticianarciso/)
 [![Gmail](https://img.shields.io/badge/leticianarciso97@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leticianarciso97@gmail.com)
 
 </div>
+
+---
+
+## 👩‍💻 Sobre mim
+
+Sou desenvolvedora front-end e atuo profissionalmente no desenvolvimento de produtos digitais
+em produção. Participei da construção de um aplicativo publicado na **App Store** e na
+**Google Play**, nas versões iOS e Android, e da **aplicação web** correspondente — ambos em
+React Native, React e TypeScript.
+
+No dia a dia, implemento telas a partir de layouts do Figma com fidelidade ao design, integro
+APIs REST, gerencio estado de servidor, gero builds e acompanho o processo de publicação nas
+lojas, trabalhando com ambientes separados de desenvolvimento, QA e produção. Atuo em time
+ágil, participando de code reviews e colaborando diretamente com design e back-end.
+
+Trabalho orientada a código limpo, componentização e reuso, com atenção a performance,
+responsividade e acessibilidade. Uso ferramentas de IA como parte do fluxo de desenvolvimento,
+sempre revisando e testando o que é gerado antes de subir — para mim elas aceleram a escrita,
+não substituem o entendimento do código.
+
+Curso **Tecnologia em Desenvolvimento de Sistemas** na FATEC Jundiaí e concluí o **CS50**, o
+programa de Ciência da Computação de Harvard (edX), de onde vem minha base em algoritmos,
+estruturas de dados e engenharia de software.
 
 ---
 
