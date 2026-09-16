@@ -15,22 +15,15 @@ Aplicativos mobile para iOS e Android e aplicações web, em produção.
 
 ## 👩‍💻 Sobre mim
 
-Desenvolvedora front-end com experiência em produto em produção: um aplicativo publicado na
-**App Store** e na **Google Play**, nas versões iOS e Android, e a **aplicação web**
-correspondente.
+Sou desenvolvedora front-end. Passei o último ano trabalhando num aplicativo publicado na
+**App Store** e na **Google Play**, feito em React Native e TypeScript, e na versão web do
+mesmo produto, em React.
 
-Meu trabalho se concentra em **React Native** e **React**, sempre com **TypeScript**. A parte
-que mais me interessa é a que não aparece na tela: decidir onde o estado deve morar, manter a
-tipagem contando a verdade sobre os dados, tratar o caminho em que a requisição falha com o
-mesmo cuidado do caminho em que ela funciona, e deixar componentes que a próxima pessoa
-consiga reaproveitar sem precisar reescrever.
+Nos projetos aqui embaixo você encontra a camada de API separada dos componentes, tipagem
+estrita e tratamento de carregamento e erro feito de forma explícita. Todos têm README
+explicando as decisões por trás do código.
 
-Os projetos abaixo refletem isso — camada de API isolada e tipada, cancelamento de requisições
-concorrentes, estados de carregamento e erro modelados de forma explícita — e cada um deles
-tem um README explicando as decisões por trás do código, não só como executar.
-
-Uso ferramentas de IA no fluxo de desenvolvimento e reviso tudo que elas produzem antes de
-subir: aceleram a escrita, não substituem o entendimento do código.
+Uso ferramentas de IA para escrever mais rápido, mas leio e testo tudo antes de subir.
 
 ---
 
