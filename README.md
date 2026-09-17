@@ -20,7 +20,7 @@ Sou desenvolvedora front-end. Passei o último ano trabalhando num aplicativo pu
 mesmo produto, em React.
 
 Nesse projeto peguei o ciclo inteiro. Recebia as telas em Figma e implementava, estilizando com
-Tailwind, NativeWind e Styled Components. Consumia APIs REST e cuidava do estado de servidor
+Tailwind e NativeWind. Consumia APIs REST e cuidava do estado de servidor
 com TanStack Query. Gerava as builds com EAS Build e acompanhava a publicação nas duas lojas,
 com ambientes separados de desenvolvimento, QA e produção. Trabalhei em time ágil, com code
 review e Git Flow, junto de designers e do pessoal de back-end.
